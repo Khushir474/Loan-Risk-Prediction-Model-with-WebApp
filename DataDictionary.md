@@ -1,6 +1,6 @@
 ## **Data Dictionary**
 
-credit_policy	- 1 if the customer meets the credit underwriting criteria; 0 otherwise.
+credit_policy	- 1 if the customer meets the credit underwriting criteria; 0 otherwise.  
 purpose	The purpose of the loan.
 int_rate	The interest rate of the loan (more risky borrowers are assigned higher interest rates).
 installment	The monthly installments owed by the borrower if the loan is funded.
