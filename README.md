@@ -12,7 +12,7 @@ Further, identifying loan defaulters in advance holds multifaceted benefits:
 contains records from the years 2007-2010. Refer data dictionary for descriptions of attributes. 
 
 ### Steps to undertake
--[x] Data cleaning and preprocessing.  
+- [x] Data cleaning and preprocessing.  
 Handling missing values, converting categorical variables into numeric variables, scaling/normalizing the data, and handling any outliers or anomalies in the data. In addition, you'll want to address the class imbalance issue by either oversampling the minority class (loans that are not fully paid) or undersampling the majority class (loans that are fully paid).  
 -[] Exploratory data analysis (EDA).  
 Exploring the dataset to gain insights into the data, such as distributions of variables, correlations between variables, and identifying any patterns in the data.  
