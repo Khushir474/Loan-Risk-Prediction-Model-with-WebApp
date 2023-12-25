@@ -8,5 +8,5 @@ Further, identifying loan defaulters in advance holds multifaceted benefits:
 - Credit Availability: Facilitating effective risk assessment to maintain credit accessibility for deserving borrowers
 
 ## Approach
-**Dataset used: [Loan Data](https://www.kaggle.com/datasets/itssuru/loan-data/)**
-2007-2010
+**Dataset used: [Loan Data](https://www.kaggle.com/datasets/itssuru/loan-data/)**  
+contains records from the years 2007-2010. Refer data dictionary for descriptions of attributes.
