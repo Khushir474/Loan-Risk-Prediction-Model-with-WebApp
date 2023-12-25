@@ -1,8 +1,8 @@
 ## **Data Dictionary**
 
 credit_policy	- 1 if the customer meets the credit underwriting criteria; 0 otherwise.  
-purpose	The purpose of the loan.  
-int_rate	The interest rate of the loan (more risky borrowers are assigned higher interest rates).  
+purpose - The purpose of the loan.  
+int_rate - The interest rate of the loan (more risky borrowers are assigned higher interest rates).  
 installment	The monthly installments owed by the borrower if the loan is funded.  
 log_annual_inc	The natural log of the self-reported annual income of the borrower.  
 dti	The debt-to-income ratio of the borrower (amount of debt divided by annual income).  
