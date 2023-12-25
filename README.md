@@ -16,14 +16,14 @@ contains records from the years 2007-2010. Refer data dictionary for description
 Handling missing values, converting categorical variables into numeric variables, scaling/normalizing the data, and handling any outliers or anomalies in the data. In addition, you'll want to address the class imbalance issue by either oversampling the minority class (loans that are not fully paid) or undersampling the majority class (loans that are fully paid).  
 - [ ] Exploratory data analysis (EDA).  
 Exploring the dataset to gain insights into the data, such as distributions of variables, correlations between variables, and identifying any patterns in the data.  
-- [ ]Feature engineering.  
+- [ ] Feature engineering.  
 Creating new features or transforming existing features to improve the predictive power of the model.  
-- [ ]Model selection.  
+- [ ] Model selection.  
 Try several models, such as decision trees, random forests, logistic regression, or support vector machines (SVM).  
-- [ ]Model training and evaluation.  
+- [ ] Model training and evaluation.  
 Training the selected model on the data and evaluating its performance using various metrics such as accuracy, precision, recall, and F1 score.  
-- [ ]Hyperparameter tuning.  
+- [ ] Hyperparameter tuning.  
 Fine-tuning the hyperparameters of the selected model to improve its performance.   
-- [ ]Create a web app using Gradio.  
-- [ ]Deploying the web app on Spaces.  
-- [ ]Testing the web app.  
+- [ ] Create a web app using Gradio.  
+- [ ] Deploying the web app on Spaces.  
+- [ ] Testing the web app.  
